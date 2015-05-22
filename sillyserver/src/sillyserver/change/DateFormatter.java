@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class DateFormatter {
 	private SimpleDateFormat df = new SimpleDateFormat(
-			"yyyyy.MMMMM.dd GGG hh:mm aaa");
+			"yyyy.MMMMM.dd GGG hh:mm aaa");
 
 	private DateFormatter() {
 	}
